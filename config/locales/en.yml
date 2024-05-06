@@ -1,0 +1,37 @@
+en:
+  navbar:
+    home: "Home"
+    books: "Books"
+    about: "About"
+    contact: "Contact"
+  actions:
+    edit: "Edit"
+    delete: "Delete"
+    create: "Create"
+    view: "View"
+  loginForm:
+    formTitle: "Log in"
+    email: "Your email"
+    password: "Password"
+    forgotPassword: "Forgot password?"
+    dontHaveAccount: "Don’t have an account yet?"
+    ctaBtn: "Sign in"
+  signupForm:
+    formTitle: "Sign up"
+    name: "Your name"
+    email: "Your email"
+    password:
+      password: "Password"
+      confirm: "Confirm password"
+      mustContain: "Password must contain the following:"
+      lowercase: "A lowercase letter"
+      uppercase: "A capital (uppercase) letter"
+      number: "A number"
+      length: "Minimum 8 characters"
+      special: "A special character ! @ # $ % ^ & */"
+      matchConfirm: "Match's confirm password"
+    terms: "I accept the "
+    termsCta: "Terms and conditions"
+    ctaBtn: "Create account"
+    login: "Already have an account?"
+    loginCta: "Login here"

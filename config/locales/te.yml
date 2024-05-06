@@ -1,0 +1,37 @@
+te: 
+  navbar:
+    home: "హోమ్"
+    books: "పుస్తకాలు"
+    about: "గురించి"
+    contact: "సంప్రదించండి"
+  actions:
+    edit: "సవరించు"
+    delete: "తొలగించు"
+    create: "సృష్టించు"
+    view: "వీక్షించు"
+  loginForm:
+    formTitle: "లాగిన్ చేయండి"
+    email: "మీ ఇమెయిల్"
+    password: "పాస్వర్డ్"
+    forgotPassword: "పాస్వర్డ్ మర్చిపోయారా?"
+    dontHaveAccount: "ఇప్పుడు ఖాతా లేదా?"
+    ctaBtn: "సైన్ ఇన్"
+  signupForm:
+    formTitle: "సైన్ అప్"
+    name: "మీ పేరు"
+    email: "మీ ఇమెయిల్"
+    password:
+      password: "పాస్‌వర్డ్"
+      confirm: "పాస్‌వర్డ్‌ను ధృవీకరించండి"
+      mustContain: "పాస్‌వర్డ్ కనీసం కొన్ని ఉండాలి:"
+      lowercase: "ఒక చిన్న అక్షరం"
+      uppercase: "ఒక పెద్ద అక్షరం"
+      number: "ఒక సంఖ్య"
+      length: "కనీసం 8 అక్షరాల లంచించాలి"
+      special: "ఒక ప్రత్యేక అక్షరం ! @ # $ % ^ & */"
+      matchConfirm: "ధృవీకరించుకున్న పాస్‌వర్డ్"
+    terms: "నేను అంగీకరిస్తాను "
+    termsCta: "నిబంధనలు మరియు షరతులు"
+    ctaBtn: "ఖాతా సృష్టించు"
+    login: "మీకు ఇప్పటికే ఒక ఖాతా ఉందా?"
+    loginCta: "ఇప్పుడే లాగిన్ చేయండి"

@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyString
+  contributor: MyString
+  author: MyString
+  price: 1.5
+  ageGroup: MyString
+  publisher: MyString
+  isbn13: MyString
+  isbn10: MyString
+
+two:
+  title: MyString
+  description: MyString
+  contributor: MyString
+  author: MyString
+  price: 1.5
+  ageGroup: MyString
+  publisher: MyString
+  isbn13: MyString
+  isbn10: MyString
